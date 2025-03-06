@@ -11,7 +11,7 @@
     "variants_enabled": true
   },
   "++1bkH": {
-    "message": "Be one of the first to try Drata's Dropbox connection"
+    "message": "Be one of the first to try Drata's Dropbox connection. Added by Jacob"
   },
   "++4fqh": {
     "description": "Accordion title",
@@ -21,7 +21,7 @@
     "message": "Remove File"
   },
   "++9iYx": {
-    "message": "Unable to display pipeline repositories at this time."
+    "message": "Unable to display pipeline repositories at this time. Added by Jacob"
   },
   "++D7AC": {
     "message": "Set Reminder Date"
@@ -38,7 +38,7 @@
   },
   "+/7SyT": {
     "description": "permission description",
-    "message": "This role lets people use Knowledge Base to get answers about security and compliance."
+    "message": "This role lets people use Knowledge Base to get answers about security and compliance. Added by Jacob"
   },
   "+/YHLZ": {
     "message": "Unlink Device?"
