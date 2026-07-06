@@ -10,7 +10,7 @@
     "variants_enabled" : true
   },
   "++1bkH" : {
-    "message" : "Sé uno de los primeros en probar la conexión de Dropbox de Rata"
+    "message" : "Be one of the first to try Drata's Dropbox connection. Added by Jacob"
   },
   "++4fqh" : {
     "description" : "Accordion title",
@@ -20,7 +20,7 @@
     "message" : "Eliminar archivo"
   },
   "++9iYx" : {
-    "message" : "No se pueden mostrar los repositorios de canalización en este momento."
+    "message" : "Unable to display pipeline repositories at this time. Added by Jacob"
   },
   "++D7AC" : {
     "message" : "Establecer fecha de recordatorio"
@@ -37,7 +37,7 @@
   },
   "+/7SyT" : {
     "description" : "permission description",
-    "message" : "Este rol permite a las personas usar la base de conocimientos para obtener respuestas sobre seguridad y cumplimiento."
+    "message" : "This role lets people use Knowledge Base to get answers about security and compliance. Added by Jacob"
   },
   "+/YHLZ" : {
     "message" : "¿Desvincular dispositivo?"
